@@ -37,6 +37,7 @@ print(df_out)
 
 exit(0)
 
+# Everything below here was for testing
 mydataset = {
     'patient_ids': ["1", "2", "1", "1", "4", "3", "3"],
     'month_year': ["1/2002", "2/2012", "1/2001", "1/2011", "4/2004", "3/2003", "3/2013"]
